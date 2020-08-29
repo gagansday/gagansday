@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on vuejs and nuxtjs.
 - 🌱 I’m currently learning ts, English speaking.
-- 📫 How to reach me: [Twitter](https://twitter.com/gagansday)
+- 📫 How to reach me: [Twitter](https://twitter.com/gagansday) [Instagram](https://www.instagram.com/gagansday_/)
 
 <!--
 **gagansday/gagansday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
