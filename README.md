@@ -3,7 +3,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=gagansday&show_icons=true)](https://github.com/gagansday/gagansday) 
 
 - 🔭 I’m currently working on vuejs and nuxtjs.
-- 🌱 I’m currently learning ts, English speaking.
+- 🌱 I’m currently learning Typescript.
 - 📫 How to reach me: [Twitter](https://twitter.com/gagansday) [Instagram](https://www.instagram.com/gagansday_/)
 
 <!--
