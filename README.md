@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning Typescript.
 - 📫 How to reach me: [Twitter](https://twitter.com/gagansday) [Instagram](https://www.instagram.com/gagansday_/)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gagansday" alt="andy3520" /> </p>
+
 <!--
 **gagansday/gagansday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
