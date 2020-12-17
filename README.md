@@ -7,6 +7,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#73](https://github.com/cobidev/simplefolio/pull/73) in [cobidev/simplefolio](https://github.com/cobidev/simplefolio)
 <!--END_SECTION:activity-->
 
 <details>
