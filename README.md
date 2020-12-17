@@ -40,11 +40,11 @@
 
 ---
 
+## [![trophy](https://github-profile-trophy.vercel.app/?username=gagansday)][website]
+
 ### :zap: GitHub Stats
 
 [![Gagan's github stats](https://github-readme-stats.vercel.app/api?username=gagansday&count_private=true&show_icons=true)][website]
-
----
 
 ### :zap: Recent Activity
 
