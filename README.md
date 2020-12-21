@@ -50,7 +50,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#73](https://github.com/cobidev/simplefolio/pull/73) in [cobidev/simplefolio](https://github.com/cobidev/simplefolio)
+1. 💪 Opened PR [#2](https://github.com/sachnaror/sachnaror/pull/2) in [sachnaror/sachnaror](https://github.com/sachnaror/sachnaror)
 <!--END_SECTION:activity-->
 
 [website]: https://gagandeepsingh.dev
