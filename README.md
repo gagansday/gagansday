@@ -1,10 +1,5 @@
 ### Hi there, I'm Gagandeep Singh 👋
 
-- 🌱 I’m currently learning Advance Typescript.
-<!-- - 📫 How to reach me: [Twitter](https://twitter.com/gagansday) [Instagram](https://www.instagram.com/gagansday_/) -->
-
----
-
 ### Connect with me:
 
 [<img align="left" alt="gagansday.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
