@@ -40,8 +40,6 @@
 
 [![Gagan's github stats](https://github-readme-stats.vercel.app/api?username=gagansday&count_private=true&show_icons=true)][website]
 
-### :zap: Recent Activity
-
 [website]: https://gagandeepsingh.dev
 [twitter]: https://twitter.com/gagansday
 [instagram]: https://instagram.com/gagansday_
