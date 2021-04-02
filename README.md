@@ -42,11 +42,6 @@
 
 ### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-
-1. 💪 Opened PR [#2](https://github.com/sachnaror/sachnaror/pull/2) in [sachnaror/sachnaror](https://github.com/sachnaror/sachnaror)
-<!--END_SECTION:activity-->
-
 [website]: https://gagandeepsingh.dev
 [twitter]: https://twitter.com/gagansday
 [instagram]: https://instagram.com/gagansday_
