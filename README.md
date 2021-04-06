@@ -5,7 +5,6 @@
 [<img align="left" alt="gagansday.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="gagansday | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="gagansday | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="gagansday | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -42,6 +41,4 @@
 
 [website]: https://gagandeepsingh.dev
 [twitter]: https://twitter.com/gagansday
-[instagram]: https://instagram.com/gagansday_
 [linkedin]: https://www.linkedin.com/in/gagansday
-[facebook]: https://www.facebook.com/gagansday.dev
