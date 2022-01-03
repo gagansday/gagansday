@@ -40,7 +40,7 @@
 
 [![Gagan's github stats](https://github-readme-stats.vercel.app/api?username=gagansday&count_private=true&show_icons=true)][website]
 
-[website]: https://gagandeepsingh.dev
+[website]: https://cv.gagandeepsingh.dev
 [cv]: https://cv.gagandeepsingh.dev
 [twitter]: https://twitter.com/gagansday
 [linkedin]: https://www.linkedin.com/in/gagansday
