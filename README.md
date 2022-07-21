@@ -38,7 +38,9 @@
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagansday&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gagansday" alt="gagansday" /> </p>
+---
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gagansday" alt="gagansday" /> </p>
 
 
 <!--- <h4 align="center">Most used languages by Lines of Code (in the last year only)</h4>
