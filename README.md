@@ -13,7 +13,7 @@
   
   My name is Gagandeep Singh, but I'm known as [@gagansday][twitter] everywhere online.
 
-  I'm a Full Stack Developer at [Boldally](https://boldally.com).
+  Founder at [Boldally](https://boldally.com) | Web Development Services 
 </h3>
 
 <h4 align="center">
