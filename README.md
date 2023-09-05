@@ -13,7 +13,7 @@
   
   My name is Gagandeep Singh, but I'm known as [@gagansday][twitter] everywhere online.
 
-  CEO at [Boldally](https://boldally.com?utm_source=github&utm_medium=gagan_profile&utm_campaign=social_media)
+  Founder & CEO at [Boldally](https://boldally.com?utm_source=github&utm_medium=gagan_profile&utm_campaign=social_media)
 </h3>
 
 <h4 align="center">
