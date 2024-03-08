@@ -1,29 +1,17 @@
-[twitter]: https://twitter.com/gagansday
-
-
-<!-- I created [Package Name](https://github.com/gagansday/somepackage), the open source project. -->
-
-<!-- - [![Visitors](https://visitor-badge.glitch.me/badge?page_id=gagansday.visitor-badge)](https://github.com/gagansday) -->
-
-<!-- <img width="0em" src="https://visitor-badge.glitch.me/badge?page_id=gagansday.visitor-badge" /> -->
 <h3 align="center">
   Hello and welcome :smile:
   <br>
   <br>
   
-  My name is Gagandeep Singh, but I'm known as [@gagansday][twitter] everywhere online.
+My name is Gagandeep Singh. 
 
- <!--  Founder & CEO at [Boldally](https://boldally.com?utm_source=github&utm_medium=gagan_profile&utm_campaign=social_media) -->
+I am a Full-Stack Developer and an expert in Laravel, React, and Vue.js, with over 10 years of experience in web development. 
+
 </h3>
 
 <h4 align="center">
 	Head <a href="https://github.com/gagansday/gagansday/discussions/1">over here</a> to engage, share, ask questions and collaborate together!
 </h4>
-
-<!-- 
-<hr>
-![Gagandeep Singh](header.gif)
--->
 
 <hr>
 
