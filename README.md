@@ -9,7 +9,7 @@ I am a Full-Stack Developer and an expert in Laravel, React, and Vue.js, with ov
 </h3>
 
 <p align="center">
-  <a href="https://dub.sh/irs-contra" target="_blank">
+  <a href="https://contra.com/gagansday" target="_blank">
     <img alt="Hire on Contra" src="hiremeoncontra-light.png">
   </a>
 </p>
