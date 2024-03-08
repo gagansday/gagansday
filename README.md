@@ -6,8 +6,13 @@
 My name is Gagandeep Singh. 
 
 I am a Full-Stack Developer and an expert in Laravel, React, and Vue.js, with over 10 years of experience in web development. 
-
 </h3>
+
+<p align="center">
+  <a href="https://dub.sh/irs-contra" target="_blank">
+    <img alt="Hire on Contra" src="hiremeoncontra-light.png">
+  </a>
+</p>
 
 <h4 align="center">
 	Head <a href="https://github.com/gagansday/gagansday/discussions/1">over here</a> to engage, share, ask questions and collaborate together!
