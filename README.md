@@ -7,14 +7,7 @@ My name is Gagandeep Singh.
 
 I am a Full-Stack Developer and an expert in Laravel, React, and Vue.js, with over 10 years of experience in web development. 
 </h3>
-
-
-
-<hr>
-
-<p align="center">
-    <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=gagansday&include_all_commits=true&hide_border=true&theme=dark"/>
-
+<hr/>
 <p align=center>
     <div align=center>
         <img align="left" width=390
