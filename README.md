@@ -5,7 +5,7 @@
   
 My name is Gagandeep Singh. 
 
-I am a Full-Stack Developer and an expert in Laravel, React, and Vue.js, with over 10 years of experience in web development. 
+I am a Full-Stack Developer and an expert in GO, PHP, Node.js, Laravel, React, and Vue.js, with over 10 years of experience in web development. 
 </h3>
 <hr/>
 <p align=center>
