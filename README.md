@@ -1,7 +1,22 @@
 # I build things on the internet. 😄
 Hi, I'm **Gagandeep Singh** — a full-stack developer turning ideas into software for 12+ years.
 
+![Profile views](https://komarev.com/ghpvc/?username=gagansday&label=Profile%20views&color=0e75b6&style=flat)
+![Years of experience](https://img.shields.io/badge/Experience-12%2B%20years-brightgreen?style=flat)
+![Open to](https://img.shields.io/badge/Open%20to-Collaborations-blue?style=flat)
+
 There's pure joy in crafting clean, high-performance solutions across the entire stack — from backend architecture to smooth user interfaces. What really gets me excited lately is diving into **real-time applications**, **AI integration**, and **machine learning**. I'm always exploring cutting-edge tech with the kind of curiosity that keeps me coding late into the night, driven by a deep desire to build software that truly makes a difference.
+
+---
+
+## ⚡ Currently
+
+- 🔭 Building **Boldally Chat** at [Boldally](https://boldally.com)
+- 🤝 Taking on select agency work via [Boldally Studio](https://boldally.studio)
+- 🌱 Going deep on **AI agents**, **MCP**, and **RAG pipelines**
+- ⚡ Living in the terminal — Neovim, fish, Claude Code
+- 💬 Ask me about **Laravel**, **Vue/React**, **AI integration**, or **scaling real-time apps**
+- 🎯 Fun fact: I've shipped software in 6+ languages and counting
 
 ---
 
@@ -66,6 +81,29 @@ Design and build, end-to-end — for teams who want it done right.
 ![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge)
 ![Vector DBs](https://img.shields.io/badge/Vector_DBs-FF6F61?style=for-the-badge)
 ![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-10A37F?style=for-the-badge)
+
+---
+
+## 📊 GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gagansday&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Gagan's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagansday&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gagansday&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=gagansday&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+</p>
+
+---
+
+## ✍️ A line I live by
+
+> *"Build software that makes a difference — even if it's only to one person."*
 
 ---
 
