@@ -1,4 +1,5 @@
 # I build things on the internet. 😄
+
 Hi, I'm **Gagandeep Singh** — a full-stack developer turning ideas into software for 12+ years.
 
 ![Profile views](https://komarev.com/ghpvc/?username=gagansday&label=Profile%20views&color=0e75b6&style=flat)
@@ -11,8 +12,8 @@ There's pure joy in crafting clean, high-performance solutions across the entire
 
 ## ⚡ Currently
 
-- 🔭 Building **Boldally Chat** at [Boldally](https://boldally.com)
-- 🤝 Taking on select agency work via [Boldally Studio](https://boldally.studio)
+- 🔭 Building **Boldally Chat** at [Boldally](https://boldally.com/?utm_source=github&utm_medium=gagan-profile&utm_campaign=readme)
+- 🤝 Taking on select agency work via [Boldally Studio](https://boldally.studio/?utm_source=github&utm_medium=gagan-profile&utm_campaign=readme)
 - 🌱 Going deep on **AI agents**, **MCP**, and **RAG pipelines**
 - ⚡ Living in the terminal — Neovim, fish, Claude Code
 - 💬 Ask me about **Laravel**, **Vue/React**, **AI integration**, or **scaling real-time apps**
@@ -23,15 +24,18 @@ There's pure joy in crafting clean, high-performance solutions across the entire
 ## 🚀 What I'm building
 
 ### Boldally — building products
+
 My products company. Currently shipping:
+
 - **Boldally Chat**
 
-🌐 [boldally.com](https://boldally.com)
+🌐 [boldally.com](https://boldally.com/?utm_source=github&utm_medium=gagan-profile&utm_campaign=readme)
 
 ### Boldally Studio — agency
+
 Design and build, end-to-end — for teams who want it done right.
 
-🌐 [boldally.studio](https://boldally.studio)
+🌐 [boldally.studio](https://boldally.studio/?utm_source=github&utm_medium=gagan-profile&utm_campaign=readme)
 
 ---
 
@@ -103,7 +107,7 @@ Design and build, end-to-end — for teams who want it done right.
 
 ## ✍️ A line I live by
 
-> *"Build software that makes a difference — even if it's only to one person."*
+> _"Build software that makes a difference — even if it's only to one person."_
 
 ---
 
