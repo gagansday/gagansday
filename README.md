@@ -1,4 +1,4 @@
-# Hi, I'm Gagandeep 👋
+# Hi, I'm Gagandeep Singh 👋
 
 I build software that real people actually use.
 
