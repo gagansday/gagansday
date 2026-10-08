@@ -12,8 +12,6 @@ I've been writing code since 2011 and building products professionally for over 
 
 I enjoy building things from scratch, but I enjoy fixing broken systems even more.
 
-Backend is the backbone of every product. That's the one place I don't cut corners.
-
 ---
 
 ## ⚡ What I'm working on
